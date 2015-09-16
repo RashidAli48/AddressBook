@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AddressBook</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_contact">addContact</string>
+    <string name="title_activity_find_contact">findContact</string>
+    <string name="title_activity_delete_contact">deleteContact</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
